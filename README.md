@@ -1,3 +1,3 @@
 # Resume
 
-Resume of BulletTech: https://bullettech2021.github.io/Resume/home/
+Resume of BulletTech: https://donkeysun1996.github.io/WendiSun/home/
